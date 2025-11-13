@@ -9,7 +9,7 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-joshuawamani100%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuawamani100@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-that__joshh__10-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/that_joshh_10)
+[![Twitter](https://img.shields.io/badge/Twitter-that__josh__10-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/that_joshh_10)
 [![Instagram](https://img.shields.io/badge/Instagram-that__josh__10-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/that_josh_10)
 [![Location](https://img.shields.io/badge/Location-Ntinda%2C%20Kampala-00C7B7?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -19,32 +19,30 @@
 
 ## About Me
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Wamani Joshua"
-        self.role = "Full Stack Developer"
-        self.location = "Ntinda, Kampala"
-        self.education = "Undergraduate in Software Engineering"
-        self.interests = ["DevOps", "Full Stack Development",
-                         "Mathematics", "Problem Solving", "AI/ML"]
-        self.pronouns = "He/Him"
+```bash
+$ whoami
+> Wamani Joshua | Full Stack Developer | Software Engineering Student
 
-    def current_work(self):
-        return [
-            "Building a scalable blog API with FastAPI",
-            "Collaborating on a multiagent snake game with AI"
-        ]
+$ pwd
+> Ntinda, Kampala
 
-    def currently_learning(self):
-        return [
-            "Mastering FastAPI",
-            "Automation with n8n",
-            "Docker & containerization",
-            "Deploying AI models",
-            "Go for blazing fast backends",
-            "System Design patterns"
-        ]
+$ echo $PRONOUNS
+> He/Him
+
+$ cat interests.txt
+> DevOps, Full Stack Development, Mathematics, Problem Solving, AI/ML
+
+$ ps aux | grep current_projects
+> [1] Building a scalable blog API with FastAPI
+> [2] Collaborating on a multiagent snake game with AI
+
+$ tail -f learning.log
+> [2025-11-13] Mastering FastAPI for high-performance APIs
+> [2025-11-13] Automation workflows with n8n
+> [2025-11-13] Docker containerization & deployment
+> [2025-11-13] Deploying AI models in production
+> [2025-11-13] Learning Go for blazing fast backends
+> [2025-11-13] System Design & architecture patterns
 ```
 
 ---
@@ -204,28 +202,3 @@ I'm looking to collaborate on:
 jwamani/jwamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+in+Training;Linux+Enthusiast;Ricing+Arch;Learning+Something+New;Building+Cool+Stuff&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000 -->
-
-Wamani Joshua
-Software Engineer / full Stack
-Ntinda, Kampala
-He/him
-
-joshuawamani100@gmail.com
-that_joshh_10 on X
-Languages: python, c, java, php
-frontend: react, css, tailwind, html
-backend: fastapi, laravel, django
-databases: postgresql, mysql, sqlite, supabase
-devOps/Tools: Docker, Git, Kali Linux, n8n, obsidian, ai tools
-Testing: pytest, doctest, jest
-
-Currently learning; mastering fastapi, learning automation with n8n, docker and deploying ai models, will also learn go for blazing fast backends, learning system design
-currently working on: building a sample scalable blog api with fastapi, collaborating a multiagent snake game with ai
-
-interests:
-collaborating: langflow, AI clis, other projects
-open to work or opportunities
-
-dark mode.
-layout centered
