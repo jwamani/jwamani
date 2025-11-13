@@ -1,0 +1,141 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&amp;display=swap');
+      
+      .terminal-window {
+        fill: #1a1b26;
+        rx: 8;
+      }
+      
+      .terminal-header {
+        fill: #24283b;
+      }
+      
+      .terminal-dot {
+        r: 6;
+      }
+      
+      .dot-close { fill: #f7768e; }
+      .dot-minimize { fill: #e0af68; }
+      .dot-maximize { fill: #9ece6a; }
+      
+      .terminal-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 14px;
+        fill: #c0caf5;
+      }
+      
+      .prompt-bracket { fill: #7aa2f7; }
+      .prompt-user { fill: #bb9af7; }
+      .prompt-path { fill: #9ece6a; }
+      .prompt-symbol { fill: #f7768e; }
+      .command { fill: #7dcfff; }
+      .variable { fill: #e0af68; }
+      .output { fill: #c0caf5; }
+      .highlight { fill: #9ece6a; }
+      .timestamp { fill: #565f89; }
+    </style>
+  </defs>
+  
+  <!-- Terminal Window -->
+  <rect class="terminal-window" width="800" height="600" />
+  
+  <!-- Terminal Header -->
+  <rect class="terminal-header" width="800" height="35" />
+  
+  <!-- Window Control Dots -->
+  <circle class="terminal-dot dot-close" cx="20" cy="17.5" />
+  <circle class="terminal-dot dot-minimize" cx="45" cy="17.5" />
+  <circle class="terminal-dot dot-maximize" cx="70" cy="17.5" />
+  
+  <!-- Terminal Title -->
+  <text x="400" y="23" class="terminal-text" text-anchor="middle" font-weight="500">wamani@github:~</text>
+  
+  <!-- Terminal Content -->
+  <g class="terminal-text">
+    <!-- Command 1: whoami -->
+    <text x="20" y="60">
+      <tspan class="prompt-bracket">┌──(</tspan><tspan class="prompt-user">wamani@github</tspan><tspan class="prompt-bracket">)-[</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-bracket">]</tspan>
+    </text>
+    <text x="20" y="78">
+      <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="command">whoami</tspan>
+    </text>
+    <text x="20" y="96" class="output">Wamani Joshua | Full Stack Developer | Software Engineering Student</text>
+    
+    <!-- Command 2: pwd -->
+    <text x="20" y="124">
+      <tspan class="prompt-bracket">┌──(</tspan><tspan class="prompt-user">wamani@github</tspan><tspan class="prompt-bracket">)-[</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-bracket">]</tspan>
+    </text>
+    <text x="20" y="142">
+      <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="command">pwd</tspan>
+    </text>
+    <text x="20" y="160" class="output">Ntinda, Kampala</text>
+    
+    <!-- Command 3: echo $PRONOUNS -->
+    <text x="20" y="188">
+      <tspan class="prompt-bracket">┌──(</tspan><tspan class="prompt-user">wamani@github</tspan><tspan class="prompt-bracket">)-[</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-bracket">]</tspan>
+    </text>
+    <text x="20" y="206">
+      <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="command">echo</tspan> <tspan class="variable">$PRONOUNS</tspan>
+    </text>
+    <text x="20" y="224" class="output">He/Him</text>
+    
+    <!-- Command 4: cat interests.txt -->
+    <text x="20" y="252">
+      <tspan class="prompt-bracket">┌──(</tspan><tspan class="prompt-user">wamani@github</tspan><tspan class="prompt-bracket">)-[</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-bracket">]</tspan>
+    </text>
+    <text x="20" y="270">
+      <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="command">cat</tspan> <tspan class="prompt-path">interests.txt</tspan>
+    </text>
+    <text x="20" y="288" class="output">DevOps, Full Stack Development, Mathematics, Problem Solving, AI/ML</text>
+    
+    <!-- Command 5: ps aux -->
+    <text x="20" y="316">
+      <tspan class="prompt-bracket">┌──(</tspan><tspan class="prompt-user">wamani@github</tspan><tspan class="prompt-bracket">)-[</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-bracket">]</tspan>
+    </text>
+    <text x="20" y="334">
+      <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="command">ps aux</tspan> <tspan class="output">|</tspan> <tspan class="command">grep</tspan> <tspan class="prompt-path">current_projects</tspan>
+    </text>
+    <text x="20" y="352">
+      <tspan class="highlight">[1]</tspan> <tspan class="output">23847 wamani    Building a scalable blog API with FastAPI</tspan>
+    </text>
+    <text x="20" y="370">
+      <tspan class="highlight">[2]</tspan> <tspan class="output">23891 wamani    Collaborating on a multiagent snake game with AI</tspan>
+    </text>
+    
+    <!-- Command 6: tail -f learning.log -->
+    <text x="20" y="398">
+      <tspan class="prompt-bracket">┌──(</tspan><tspan class="prompt-user">wamani@github</tspan><tspan class="prompt-bracket">)-[</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-bracket">]</tspan>
+    </text>
+    <text x="20" y="416">
+      <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="command">tail -f</tspan> <tspan class="prompt-path">learning.log</tspan>
+    </text>
+    <text x="20" y="434">
+      <tspan class="timestamp">[2025-11-13 09:30:15]</tspan> <tspan class="output">Mastering FastAPI for high-performance APIs</tspan>
+    </text>
+    <text x="20" y="452">
+      <tspan class="timestamp">[2025-11-13 10:15:42]</tspan> <tspan class="output">Automation workflows with n8n</tspan>
+    </text>
+    <text x="20" y="470">
+      <tspan class="timestamp">[2025-11-13 11:22:08]</tspan> <tspan class="output">Docker containerization &amp; deployment</tspan>
+    </text>
+    <text x="20" y="488">
+      <tspan class="timestamp">[2025-11-13 14:45:33]</tspan> <tspan class="output">Deploying AI models in production</tspan>
+    </text>
+    <text x="20" y="506">
+      <tspan class="timestamp">[2025-11-13 16:10:29]</tspan> <tspan class="output">Learning Go for blazing fast backends</tspan>
+    </text>
+    <text x="20" y="524">
+      <tspan class="timestamp">[2025-11-13 18:05:51]</tspan> <tspan class="output">System Design &amp; architecture patterns</tspan>
+    </text>
+    
+    <!-- Cursor -->
+    <text x="20" y="552">
+      <tspan class="prompt-bracket">┌──(</tspan><tspan class="prompt-user">wamani@github</tspan><tspan class="prompt-bracket">)-[</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-bracket">]</tspan>
+    </text>
+    <text x="20" y="570">
+      <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="output">_</tspan>
+    </text>
+  </g>
+</svg>
