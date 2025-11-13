@@ -19,31 +19,52 @@
 
 ## About Me
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
 ```bash
-$ whoami
-> Wamani Joshua | Full Stack Developer | Software Engineering Student
+┌──(wamani@github)-[~]
+└─$ whoami
+Wamani Joshua | Full Stack Developer | Software Engineering Student
 
-$ pwd
-> Ntinda, Kampala
+┌──(wamani@github)-[~]
+└─$ pwd
+Ntinda, Kampala
 
-$ echo $PRONOUNS
-> He/Him
+┌──(wamani@github)-[~]
+└─$ echo $PRONOUNS
+He/Him
 
-$ cat interests.txt
-> DevOps, Full Stack Development, Mathematics, Problem Solving, AI/ML
+┌──(wamani@github)-[~]
+└─$ cat interests.txt
+DevOps, Full Stack Development, Mathematics, Problem Solving, AI/ML
 
-$ ps aux | grep current_projects
-> [1] Building a scalable blog API with FastAPI
-> [2] Collaborating on a multiagent snake game with AI
+┌──(wamani@github)-[~]
+└─$ ps aux | grep current_projects
+[1] 23847 wamani    Building a scalable blog API with FastAPI
+[2] 23891 wamani    Collaborating on a multiagent snake game with AI
 
-$ tail -f learning.log
-> [2025-11-13] Mastering FastAPI for high-performance APIs
-> [2025-11-13] Automation workflows with n8n
-> [2025-11-13] Docker containerization & deployment
-> [2025-11-13] Deploying AI models in production
-> [2025-11-13] Learning Go for blazing fast backends
-> [2025-11-13] System Design & architecture patterns
+┌──(wamani@github)-[~]
+└─$ tail -f learning.log
+[2025-11-13 09:30:15] Mastering FastAPI for high-performance APIs
+[2025-11-13 10:15:42] Automation workflows with n8n
+[2025-11-13 11:22:08] Docker containerization & deployment
+[2025-11-13 14:45:33] Deploying AI models in production
+[2025-11-13 16:10:29] Learning Go for blazing fast backends
+[2025-11-13 18:05:51] System Design & architecture patterns
+
+┌──(wamani@github)-[~]
+└─$ _
 ```
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 
 ---
 
