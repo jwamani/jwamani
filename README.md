@@ -19,107 +19,40 @@
 
 ## About Me
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-```diff
-@@                    wamani@github:~                         @@
-```
-
-<p align="left">
-<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
-</p>
-
-```js
-└─$ whoami
-```
-
-```yaml
+<pre>
+<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
+<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">whoami</span>
 Wamani Joshua | Full Stack Developer | Software Engineering Student
-```
 
-<p align="left">
-<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
-</p>
-
-```js
-└─$ pwd
-```
-
-```yaml
+<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
+<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">pwd</span>
 Ntinda, Kampala
-```
 
-<p align="left">
-<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
-</p>
-
-```js
-└─$ echo $PRONOUNS
-```
-
-```yaml
+<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
+<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">echo</span> <span style="color: #e0af68;">$PRONOUNS</span>
 He/Him
-```
 
-<p align="left">
-<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
-</p>
-
-```js
-└─$ cat interests.txt
-```
-
-```yaml
+<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
+<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">cat</span> <span style="color: #9ece6a;">interests.txt</span>
 DevOps, Full Stack Development, Mathematics, Problem Solving, AI/ML
-```
 
-<p align="left">
-<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
-</p>
+<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
+<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">ps aux</span> <span style="color: #89ddff;">|</span> <span style="color: #7dcfff;">grep</span> <span style="color: #9ece6a;">current_projects</span>
+<span style="color: #9ece6a;">[1]</span> 23847 wamani    Building a scalable blog API with FastAPI
+<span style="color: #9ece6a;">[2]</span> 23891 wamani    Collaborating on a multiagent snake game with AI
 
-```js
-└─$ ps aux | grep current_projects
-```
+<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
+<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">tail -f</span> <span style="color: #9ece6a;">learning.log</span>
+<span style="color: #e0af68;">[2025-11-13 09:30:15]</span> Mastering FastAPI for high-performance APIs
+<span style="color: #e0af68;">[2025-11-13 10:15:42]</span> Automation workflows with n8n
+<span style="color: #e0af68;">[2025-11-13 11:22:08]</span> Docker containerization & deployment
+<span style="color: #e0af68;">[2025-11-13 14:45:33]</span> Deploying AI models in production
+<span style="color: #e0af68;">[2025-11-13 16:10:29]</span> Learning Go for blazing fast backends
+<span style="color: #e0af68;">[2025-11-13 18:05:51]</span> System Design & architecture patterns
 
-```diff
-+ [1] 23847 wamani    Building a scalable blog API with FastAPI
-+ [2] 23891 wamani    Collaborating on a multiagent snake game with AI
-```
-
-<p align="left">
-<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
-</p>
-
-```js
-└─$ tail -f learning.log
-```
-
-```diff
-! [2025-11-13 09:30:15] Mastering FastAPI for high-performance APIs
-! [2025-11-13 10:15:42] Automation workflows with n8n
-! [2025-11-13 11:22:08] Docker containerization & deployment
-! [2025-11-13 14:45:33] Deploying AI models in production
-! [2025-11-13 16:10:29] Learning Go for blazing fast backends
-! [2025-11-13 18:05:51] System Design & architecture patterns
-```
-
-<p align="left">
-<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
-</p>
-
-```js
-└─$ _
-```
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
+<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
+<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #565f89;">_</span>
+</pre>
 
 ---
 
