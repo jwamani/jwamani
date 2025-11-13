@@ -19,40 +19,40 @@
 
 ## About Me
 
-<pre>
-<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
-<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">whoami</span>
+```console
+┌──(wamani@github)-[~]
+└─$ whoami
 Wamani Joshua | Full Stack Developer | Software Engineering Student
 
-<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
-<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">pwd</span>
+┌──(wamani@github)-[~]
+└─$ pwd
 Ntinda, Kampala
 
-<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
-<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">echo</span> <span style="color: #e0af68;">$PRONOUNS</span>
+┌──(wamani@github)-[~]
+└─$ echo $PRONOUNS
 He/Him
 
-<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
-<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">cat</span> <span style="color: #9ece6a;">interests.txt</span>
+┌──(wamani@github)-[~]
+└─$ cat interests.txt
 DevOps, Full Stack Development, Mathematics, Problem Solving, AI/ML
 
-<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
-<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">ps aux</span> <span style="color: #89ddff;">|</span> <span style="color: #7dcfff;">grep</span> <span style="color: #9ece6a;">current_projects</span>
-<span style="color: #9ece6a;">[1]</span> 23847 wamani    Building a scalable blog API with FastAPI
-<span style="color: #9ece6a;">[2]</span> 23891 wamani    Collaborating on a multiagent snake game with AI
+┌──(wamani@github)-[~]
+└─$ ps aux | grep current_projects
+[1] 23847 wamani    Building a scalable blog API with FastAPI
+[2] 23891 wamani    Collaborating on a multiagent snake game with AI
 
-<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
-<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #7dcfff;">tail -f</span> <span style="color: #9ece6a;">learning.log</span>
-<span style="color: #e0af68;">[2025-11-13 09:30:15]</span> Mastering FastAPI for high-performance APIs
-<span style="color: #e0af68;">[2025-11-13 10:15:42]</span> Automation workflows with n8n
-<span style="color: #e0af68;">[2025-11-13 11:22:08]</span> Docker containerization & deployment
-<span style="color: #e0af68;">[2025-11-13 14:45:33]</span> Deploying AI models in production
-<span style="color: #e0af68;">[2025-11-13 16:10:29]</span> Learning Go for blazing fast backends
-<span style="color: #e0af68;">[2025-11-13 18:05:51]</span> System Design & architecture patterns
+┌──(wamani@github)-[~]
+└─$ tail -f learning.log
+[2025-11-13 09:30:15] Mastering FastAPI for high-performance APIs
+[2025-11-13 10:15:42] Automation workflows with n8n
+[2025-11-13 11:22:08] Docker containerization & deployment
+[2025-11-13 14:45:33] Deploying AI models in production
+[2025-11-13 16:10:29] Learning Go for blazing fast backends
+[2025-11-13 18:05:51] System Design & architecture patterns
 
-<span style="color: #7aa2f7;">┌──(</span><span style="color: #bb9af7;">wamani@github</span><span style="color: #7aa2f7;">)-[</span><span style="color: #9ece6a;">~</span><span style="color: #7aa2f7;">]</span>
-<span style="color: #7aa2f7;">└─</span><span style="color: #f7768e;">$</span> <span style="color: #565f89;">_</span>
-</pre>
+┌──(wamani@github)-[~]
+└─$ _
+```
 
 ---
 
