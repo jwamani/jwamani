@@ -25,38 +25,93 @@
 
 </div>
 
-```bash
-┌──(wamani@github)-[~]
+```diff
+@@                    wamani@github:~                         @@
+```
+
+<p align="left">
+<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
+</p>
+
+```js
 └─$ whoami
+```
+
+```yaml
 Wamani Joshua | Full Stack Developer | Software Engineering Student
+```
 
-┌──(wamani@github)-[~]
+<p align="left">
+<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
+</p>
+
+```js
 └─$ pwd
+```
+
+```yaml
 Ntinda, Kampala
+```
 
-┌──(wamani@github)-[~]
+<p align="left">
+<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
+</p>
+
+```js
 └─$ echo $PRONOUNS
+```
+
+```yaml
 He/Him
+```
 
-┌──(wamani@github)-[~]
+<p align="left">
+<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
+</p>
+
+```js
 └─$ cat interests.txt
+```
+
+```yaml
 DevOps, Full Stack Development, Mathematics, Problem Solving, AI/ML
+```
 
-┌──(wamani@github)-[~]
+<p align="left">
+<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
+</p>
+
+```js
 └─$ ps aux | grep current_projects
-[1] 23847 wamani    Building a scalable blog API with FastAPI
-[2] 23891 wamani    Collaborating on a multiagent snake game with AI
+```
 
-┌──(wamani@github)-[~]
+```diff
++ [1] 23847 wamani    Building a scalable blog API with FastAPI
++ [2] 23891 wamani    Collaborating on a multiagent snake game with AI
+```
+
+<p align="left">
+<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
+</p>
+
+```js
 └─$ tail -f learning.log
-[2025-11-13 09:30:15] Mastering FastAPI for high-performance APIs
-[2025-11-13 10:15:42] Automation workflows with n8n
-[2025-11-13 11:22:08] Docker containerization & deployment
-[2025-11-13 14:45:33] Deploying AI models in production
-[2025-11-13 16:10:29] Learning Go for blazing fast backends
-[2025-11-13 18:05:51] System Design & architecture patterns
+```
 
-┌──(wamani@github)-[~]
+```diff
+! [2025-11-13 09:30:15] Mastering FastAPI for high-performance APIs
+! [2025-11-13 10:15:42] Automation workflows with n8n
+! [2025-11-13 11:22:08] Docker containerization & deployment
+! [2025-11-13 14:45:33] Deploying AI models in production
+! [2025-11-13 16:10:29] Learning Go for blazing fast backends
+! [2025-11-13 18:05:51] System Design & architecture patterns
+```
+
+<p align="left">
+<img src="https://img.shields.io/badge/┌──(wamani@github)-[~]-7aa2f7?style=flat-square&labelColor=1a1b26&color=7aa2f7"/>
+</p>
+
+```js
 └─$ _
 ```
 
