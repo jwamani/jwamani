@@ -59,9 +59,7 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
 
@@ -73,7 +71,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -101,27 +98,68 @@
 
 ---
 
+## Profile Visits & Activity
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jwamani&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/jwamani?label=Followers&style=for-the-badge&color=brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/jwamani?label=Total%20Stars&style=for-the-badge&color=yellow)
+
+</div>
+
+---
+
 ## GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwamani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jwamani&theme=tokyonight&hide_border=true)
+<table>
+<tr>
+<td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwamani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api?username=jwamani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jwamani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jwamani&theme=tokyo-night&hide_border=true&area=true)
+
+### 📊 Contribution Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jwamani&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 </div>
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=jwamani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwamani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500)
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=jwamani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=-C,-B)
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Metrics
+
+<img src="https://github-contributor-stats.vercel.app/api?username=jwamani&limit=5&theme=tokyonight&hide_border=true" alt="Top Contributed Repos" />
 
 </div>
 
@@ -171,9 +209,7 @@ I'm looking to collaborate on:
 
 <div align="center">
 
-### Thanks for visiting!
-
-![Visitor Count](https://profile-counter.glitch.me/jwamani/count.svg)
+### Thanks for visiting
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20)
 
