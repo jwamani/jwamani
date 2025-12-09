@@ -102,9 +102,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jwamani&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/jwamani?label=Followers&style=for-the-badge&color=brightgreen)
-![GitHub Stars](https://img.shields.io/github/stars/jwamani?label=Total%20Stars&style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=jwamani&label=Profile%20Views&color=58A6FF&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/jwamani?label=Followers&style=for-the-badge&logo=github&color=58A6FF)
+![Total Stars](https://img.shields.io/github/stars/jwamani?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=58A6FF)
 
 </div>
 
@@ -114,28 +114,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jwamani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jwamani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-### 📊 Contribution Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jwamani&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+<a href="https://github.com/jwamani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwamani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/jwamani">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jwamani&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -143,23 +127,25 @@
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jwamani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500)
+<a href="https://github.com/jwamani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwamani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages"/>
+</a>
 
 </div>
 
 <div align="center">
 
-### 🏆 GitHub Achievements
+### 📊 Contribution Activity
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=jwamani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=-C,-B)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jwamani&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 <div align="center">
 
-### 📈 Contribution Metrics
+### 🏆 GitHub Trophies
 
-<img src="https://github-contributor-stats.vercel.app/api?username=jwamani&limit=5&theme=tokyonight&hide_border=true" alt="Top Contributed Repos" />
+![Trophy](https://github-profile-trophy.vercel.app/?username=jwamani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
