@@ -118,7 +118,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwamani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/jwamani">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jwamani&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img height="180em" src="https://streat-stats.demolab.com?user=jwamani&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 </div>
