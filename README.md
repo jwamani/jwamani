@@ -114,7 +114,7 @@
 <div align="center">
 
 <a href="https://github.com/jwamani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwamani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwamani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/jwamani">
   <img height="180em" src="https://streak-stats.demolab.com?user=jwamani&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
@@ -127,7 +127,7 @@
 ### 💻 Most Used Languages
 
 <a href="https://github.com/jwamani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwamani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwamani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
@@ -144,7 +144,7 @@
 
 ### 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=jwamani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jwamani&theme=tokyonight&no-frame=true&no-bg=true)
 
 </div>
 
