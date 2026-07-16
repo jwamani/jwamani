@@ -9,8 +9,8 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-joshuawamani100%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuawamani100@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-that__josh__10-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/that_joshh_10)
 [![Instagram](https://img.shields.io/badge/Instagram-that__josh__10-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/that_josh_10)
+
 [![Location](https://img.shields.io/badge/Location-Ntinda%2C%20Kampala-00C7B7?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
@@ -35,9 +35,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Php](https://img.shields.io/badge/Php-3178C6?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
@@ -58,7 +57,7 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 </div>
 
@@ -91,7 +90,6 @@
 <div align="center">
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 </div>
 
@@ -158,10 +156,9 @@
 
 ### Working On
 
-- Building a scalable blog API with FastAPI
-- Collaborating on a multiagent snake game with AI
-- Exploring automation workflows with n8n
-
+- Building a scalable url-shortener service with FastAPI
+- Collaborating on a multiagent snake game with AI similar to Battle Royale
+  
 </td>
 <td width="50%">
 
@@ -169,7 +166,7 @@
 
 - Mastering FastAPI for high-performance APIs
 - Docker containerization & deployment
-- Deploying AI models in production
+- Deploying AI models to production
 - Go programming language
 - System design & architecture patterns
 
