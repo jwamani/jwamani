@@ -88,7 +88,7 @@
     <text x="20" y="270">
       <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="command">cat</tspan> <tspan class="prompt-path">interests.txt</tspan>
     </text>
-    <text x="20" y="288" class="output">DevOps, Full Stack Development, Mathematics, Problem Solving, AI/ML</text>
+    <text x="20" y="288" class="output">DevOps, Backend and Mobile Development, Problem Solving, AI/ML, Football, Video games(CODM)</text>
     
     <!-- Command 5: ps aux -->
     <text x="20" y="316">
@@ -98,7 +98,7 @@
       <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="command">ps aux</tspan> <tspan class="output">|</tspan> <tspan class="command">grep</tspan> <tspan class="prompt-path">current_projects</tspan>
     </text>
     <text x="20" y="352">
-      <tspan class="highlight">[1]</tspan> <tspan class="output">23847 wamani    Building a scalable blog API with FastAPI</tspan>
+      <tspan class="highlight">[1]</tspan> <tspan class="output">23847 wamani    Building a scalable url shortener service with FastAPI</tspan>
     </text>
     <text x="20" y="370">
       <tspan class="highlight">[2]</tspan> <tspan class="output">23891 wamani    Collaborating on a multiagent snake game with AI</tspan>
@@ -112,22 +112,22 @@
       <tspan class="prompt-bracket">└─</tspan><tspan class="prompt-symbol">$</tspan> <tspan class="command">tail -f</tspan> <tspan class="prompt-path">learning.log</tspan>
     </text>
     <text x="20" y="434">
-      <tspan class="timestamp">[2025-11-13 09:30:15]</tspan> <tspan class="output">Mastering FastAPI for high-performance APIs</tspan>
+      <tspan class="timestamp">[2026-07-16 09:30:15]</tspan> <tspan class="output">Mastering FastAPI for high-performance APIs</tspan>
     </text>
     <text x="20" y="452">
-      <tspan class="timestamp">[2025-11-13 10:15:42]</tspan> <tspan class="output">Automation workflows with n8n</tspan>
+      <tspan class="timestamp">[2026-07-16 10:15:42]</tspan> <tspan class="output">Learning Automation workflows with n8n</tspan>
     </text>
     <text x="20" y="470">
-      <tspan class="timestamp">[2025-11-13 11:22:08]</tspan> <tspan class="output">Docker containerization &amp; deployment</tspan>
+      <tspan class="timestamp">[2026-07-16 11:22:08]</tspan> <tspan class="output">Docker containerization &amp; deployment</tspan>
     </text>
     <text x="20" y="488">
-      <tspan class="timestamp">[2025-11-13 14:45:33]</tspan> <tspan class="output">Deploying AI models in production</tspan>
+      <tspan class="timestamp">[2026-07-16 14:45:33]</tspan> <tspan class="output">Deploying AI models in production</tspan>
     </text>
     <text x="20" y="506">
-      <tspan class="timestamp">[2025-11-13 16:10:29]</tspan> <tspan class="output">Learning Go for blazing fast backends</tspan>
+      <tspan class="timestamp">[2026-07-16 16:10:29]</tspan> <tspan class="output">Learning Go for blazing fast backends</tspan>
     </text>
     <text x="20" y="524">
-      <tspan class="timestamp">[2025-11-13 18:05:51]</tspan> <tspan class="output">System Design &amp; architecture patterns</tspan>
+      <tspan class="timestamp">[2026-07-16 18:05:51]</tspan> <tspan class="output">System Design &amp; architecture patterns</tspan>
     </text>
     
     <!-- Cursor -->
