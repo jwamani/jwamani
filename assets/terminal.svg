@@ -101,7 +101,7 @@
       <tspan class="highlight">[1]</tspan> <tspan class="output">23847 wamani    Building a scalable url shortener service with FastAPI</tspan>
     </text>
     <text x="20" y="370">
-      <tspan class="highlight">[2]</tspan> <tspan class="output">23891 wamani    Collaborating on a multiagent snake game with AI</tspan>
+      <tspan class="highlight">[2]</tspan> <tspan class="output">23891 wamani    Collaborating on a multiagent snake game with RL</tspan>
     </text>
     
     <!-- Command 6: tail -f learning.log -->
@@ -124,7 +124,7 @@
       <tspan class="timestamp">[2026-07-16 14:45:33]</tspan> <tspan class="output">Deploying AI models in production</tspan>
     </text>
     <text x="20" y="506">
-      <tspan class="timestamp">[2026-07-16 16:10:29]</tspan> <tspan class="output">Learning Go for blazing fast backends</tspan>
+      <tspan class="timestamp">[2026-07-16 16:10:29]</tspan> <tspan class="output">Learning Go for blazing fast backend systems</tspan>
     </text>
     <text x="20" y="524">
       <tspan class="timestamp">[2026-07-16 18:05:51]</tspan> <tspan class="output">System Design &amp; architecture patterns</tspan>
