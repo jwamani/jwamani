@@ -21,6 +21,8 @@
 
 <div align="center">
 
+Currently pursuing a Bachelor's degree in Software Engineering at Makerere University.
+
 <img src="./assets/terminal.svg" alt="Terminal" width="100%">
 
 </div>
